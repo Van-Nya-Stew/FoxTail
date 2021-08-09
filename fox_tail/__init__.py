@@ -7,7 +7,7 @@ from fox_tail.plug import plug_in_fox
 
 def on_load(server: PluginServerInterface, old):
     server.logger.info(server.tr('prprpr'))
-    server.register_help_message('!!fox', 'is wired plugin')
+    server.register_help_message('!!fox', server.tr('help_msg'))
     server.register_command(Literal('!!fox').runs(plug_in_fox(RTextList(
         '\\',
         RText('fu哩', RColor.gold)
