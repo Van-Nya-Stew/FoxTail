@@ -1,8 +1,11 @@
 {
     "id": "fox_tail",
     "version": "0.1.0",
-    "name": "Fox Tail",
-    "description": "Fox tail is wired plugin",
+    "name": "FoxTail",
+    "description": {
+        "en_us": "Fox tail is wired plugin",
+        "zh_cn": "fu哩yi叭柿奇怪插件"
+    },
     "author": [
         "Van_Nya"
     ],
