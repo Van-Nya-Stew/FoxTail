@@ -11,7 +11,7 @@
     ],
     "link": "https://github.com/Van-Nya-Stew/FoxTail",
     "dependencies": {
-        "mcdreforged": ">=2.0.0-a1"
+        "mcdreforged": ">=2.0.0"
     },
     "resources": [
         "lang"
